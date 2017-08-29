@@ -9,12 +9,13 @@ A real treat to learn as I go and thats exactly what I did. I will post my curre
 After a few bumps and snaggs I got the script to load true and fast, pushing it through my ssl on a production site.
 
 #Bread and Butter
-Some Highlight Include:
-Support for multiple users
-Create Edit Content with ease
-Built in Comments with edit functions
-Clean SEO friendly URLs
-User friendly administration backend
+1. Some Highlight Include:
+2. Support for multiple users
+3. Create Edit Content with ease
+4. Built in Comments with edit functions
+5. Clean SEO friendly URLs
+6. User friendly administration backend
+7. A wysiwyg can be added
 
 **Will be easy to edit content source then build apps.**
 
