@@ -1,5 +1,5 @@
 # Simply-Cms
-### A minb fork into simply-cms because a fast n light cms is all good.
+### A min-b fork into simply-cms because a fast n light cms is all good.
 Original open-source code downloaded from the interweb. Thanks to betso for all his creative know-how and jedi-knight php skills.
 There is no license in the original source .B2z and hence has no warranty or guarantee as stated in the new MIT LICENSE.
 If you have any questions please contact me here at github. 
@@ -28,5 +28,7 @@ New pingo code will be added soon.
 No other issues that i can see but if you notice something feel free to pull and report. 
 
 **Will be a treat to edit content source then build apps.**
+
 My first will be the docmumentation of the core build then onto Bigger Projects.. Cheers
+
 Live DEMO @ http://simply-cms.p51host.com
